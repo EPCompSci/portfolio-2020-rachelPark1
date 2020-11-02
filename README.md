@@ -7,3 +7,6 @@ I'd like you to consider this assignment as a way to get a job / internship / in
 
 Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
 
+
+
+https://github.com/rachelPark1/asl-alphabets.git
