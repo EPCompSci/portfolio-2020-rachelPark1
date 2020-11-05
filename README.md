@@ -37,6 +37,8 @@ I wanted to make a useful app that would improve EPHS students' everyday lives, 
 
 # [Star Wars (Scratch)](https://scratch.mit.edu/projects/190889727)
 
+![](StarWars_Screenshot.png)
+
 This is the game that I made using Scratch.
 
 Press SPACE bar to shoot. Move the cursor to change the direction the character is facing. Press A, S, D, and W to move around. Press 1 and 2 to change your weapon.
