@@ -29,9 +29,17 @@ I learned how to link a website with a button, Swift fundamental syntax, and oth
 
 # [EPHS App (iOS-Swift)](https://github.com/connorholm/ephsapp2020.git)
 
-![](EPHSApp_1.PNG)
+![](ephsapp2020_login.PNG)
 
-![](EPHSApp_2.PNG)
+![](ephsapp2020_assignments.PNG)
+
+![](ephsapp2020_announcements.PNG)
+
+![](ephsapp2020_webLinks.PNG)
+
+![](ephsapp2020_widget1.PNG)
+
+![](ephsapp2020_widget2.PNG)
 
 I wanted to make a useful app that would improve EPHS students' everyday lives, rather than a game. Then, I recalled my first day of high school being overwhelmed by a maze of school hallways. I remembered having to click so many links in order to communicate with teachers and counselors. So, as a group, we decided to create an app that is the ultimate EPHS guide, involving a virtual school map, daily schedules, club announcements, direct contact with teachers and counselors, and other diverse features. We have built a login view for security reasons so that only EPHS students are permitted to access the school map. We have several views that switch when a user clicks a button.
 
