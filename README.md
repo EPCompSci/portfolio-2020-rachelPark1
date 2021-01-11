@@ -29,7 +29,7 @@ I learned how to link a website with a button, Swift fundamental syntax, and oth
 
 # [EPHS App (iOS-Swift)](https://github.com/connorholm/ephsapp2020.git)
 
-![](ephsapp2020_login.PNG)
+![](ephsapp2020_Screenshots/ephsapp2020_login.PNG)
 
 ![](ephsapp2020_assignments.PNG)
 
