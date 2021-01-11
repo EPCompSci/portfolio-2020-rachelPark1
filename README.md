@@ -27,7 +27,7 @@ At the very beginning of this term, I wanted to make an app that was unique and 
 
 I learned how to link a website with a button, Swift fundamental syntax, and other basic operating systems including app icons, images, storyboards, and various sources Xcode offers. I had an idea that provides users with more diverse studying options, such as simple flashcards, tests, and matching games. To do that, I realized that it would require multiple interchangeable views for a smooth user experience. That particular skill I acquired while learning about multiple view controllers came in extremely useful when understanding the code my team and I have constructed for the EPHS App.
 
-# [EPHS App (iOS-Swift)](https://github.com/connorholm/EPHS-App.git)
+# [EPHS App (iOS-Swift)](https://github.com/connorholm/ephsapp2020.git)
 
 ![](EPHSApp_1.PNG)
 
