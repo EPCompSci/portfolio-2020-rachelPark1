@@ -21,7 +21,7 @@ This game is a story-driven game that includes multiple levels, each having diff
 
 # [ASL Alphabets (iOS-Swift)](https://github.com/rachelPark1/asl-alphabets.git)
 
-![](ASLAlphabets_2.PNG)
+<img src="ASLAlphabets_2.PNG" width=400>
 
 At the very beginning of this term, I wanted to make an app that was unique and helpful to minorities and could resolve even a small problem they were facing. I was having trouble with memorizing the American Sign Language alphabets, so I decided to build an app that works as effective ASL alphabet flashcards that implement spaced repetition, a powerful studying technique.
 
@@ -29,17 +29,11 @@ I learned how to link a website with a button, Swift fundamental syntax, and oth
 
 # [EPHS App (iOS-Swift)](https://github.com/connorholm/ephsapp2020.git)
 
-<img src="ephsapp2020_Screenshots/ephsapp2020_login.PNG">
+<img src="ephsapp2020_Screenshots/ephsapp2020_login.PNG" width=400><img src="ephsapp2020_Screenshots/ephsapp2020_assignments.PNG" width=400>
 
-![](ephsapp2020_Screenshots/ephsapp2020_assignments.PNG)
+<img src="ephsapp2020_Screenshots/ephsapp2020_announcements.PNG" width=400><img src="ephsapp2020_Screenshots/ephsapp2020_webLinks.PNG" width=400>
 
-![](ephsapp2020_Screenshots/ephsapp2020_announcements.PNG)
-
-![](ephsapp2020_Screenshots/ephsapp2020_webLinks.PNG)
-
-![](ephsapp2020_Screenshots/ephsapp2020_widget1.PNG)
-
-![](ephsapp2020_Screenshots/ephsapp2020_widget2.PNG)
+<img src="ephsapp2020_Screenshots/ephsapp2020_widget1.PNG" width=400><img src="ephsapp2020_Screenshots/ephsapp2020_widget2.PNG" width=400>
 
 I wanted to make a useful app that would improve EPHS students' everyday lives, rather than a game. Then, I recalled my first day of high school being overwhelmed by a maze of school hallways. I remembered having to click so many links in order to communicate with teachers and counselors. So, as a group, we decided to create an app that is the ultimate EPHS guide, involving a virtual school map, daily schedules, club announcements, direct contact with teachers and counselors, and other diverse features. We have built a login view for security reasons so that only EPHS students are permitted to access the school map. We have several views that switch when a user clicks a button.
 
